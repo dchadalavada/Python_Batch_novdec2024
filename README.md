@@ -1,1 +1,54 @@
 # Python_Batch_novdec2024
+A Repository with all the class material
+
+## Git Commands
+
+To clone a repository into needed local :
+
+git clone https
+
+To list the local branches :
+
+git branch
+
+To create a branch:
+
+git checkout - bclass01
+
+To see the latest local changes:
+
+git status
+
+To exactly see the chnages made on a single file :
+
+gitt diff
+
+To stage the changes:
+
+gitt add <file_name>
+
+To commit chages:
+
+git commit-m " commit_message"
+
+To push the change :
+
+git push origin<source_branch>
+EG:class01-main(git push origin class01)
+
+
+##Daily
+
+To see the latest local changes:
+
+git status
+
+To exactly see the chnages made on a single file :
+
+gitt diff
+
+To stage The changes:
+
+git add<file_name>
+
+
