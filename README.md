@@ -1,4 +1,5 @@
 # Python_Batch_novdec2024
+ 
   A Repository with all the class material
 
 ## Git Commands
@@ -13,7 +14,7 @@
 
   To create a branch:
 
-   git checkout - bclass01
+   git checkout - bclass001
 
   To see the latest local changes:
 
@@ -58,6 +59,8 @@
   To push the changes:
 
    git push origin<source_brach_name>
-    class001--> main
-    ex: git push origin class001
+   class001--> main
+   ex: git push origin class001git status
+    
+    
 
