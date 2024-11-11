@@ -1,59 +1,54 @@
-# Python_Batch_novdec2024
+# PythonBatchNovdec2024
+A repository with all classes material for becoming a python developer
 
-A Repository with all the class material
+## GitCommands
 
-## Git Commands
+to clone the repository(not needed in code space for local development):
 
-To clone a repository into needed local :
+    git clone https  < url >
 
-  git clone
+to list the local branches:
 
-To list the local branches :
-
-  git branch
+    git branch
 
 To create a branch:
 
-  git checkout - bclass001
+    git checkout -b class01
 
 To see the latest local changes:
 
-  git status
+    git status
 
-To exactly see the chnages made on a single file :
+To exactly see the changes made on a single file :
 
-  git diff
+    git diff README.md
 
 To stage the changes:
 
-  git add <file_name>
+    git add <filename>
 
-To commit chages:
+To commit the changes
 
-  git commit-m " commit_message"
+    git commit -m "commit message"
 
-To push the change :
+To Push the changes
 
-  git push origin<source_branch> EG:class01-main(git push origin class01)
+    git push origin <sourcebranch>
 
 ### Daily
 
-To see the latest local changes:
+To check the branch is clean :
 
-  git status
+    git status
 
-To exactly see the chnages made on a single file :
+To checkout to the main branch
 
-  git diff
+    git checkout main
 
-To stage The changes:
+To get the latest changes:
 
-  git add<file_name>
+    git pull origin main
 
-To commit changes:
+To create a new branch:
 
-  git commit-m "commit_message"
-
-To push the changes:
-
-  git push origin<source_brach_name> class001--> main ex: git push origin class001git status
+    git checkout -b <newbranchname>
