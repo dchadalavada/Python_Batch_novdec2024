@@ -5,12 +5,11 @@
 ## Git Commands
 
 To clone a repository into needed local :
-
-  git clone
+   git clone
 
 To list the local branches :
 
-  git branch
+ git branch
 
 To create a branch:
 
