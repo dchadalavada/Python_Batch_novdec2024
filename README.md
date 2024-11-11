@@ -1,15 +1,16 @@
 # Python_Batch_novdec2024
 
-  A Repository with all the class material
+A Repository with all the class material
 
 ## Git Commands
 
 To clone a repository into needed local :
-   git clone
+
+  git clone
 
 To list the local branches :
 
- git branch
+  git branch
 
 To create a branch:
 
